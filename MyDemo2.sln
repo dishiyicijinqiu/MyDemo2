@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.40629.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApplication1", "WindowsFormsApplication1\WindowsFormsApplication1.csproj", "{1D546258-EDFF-4240-8A5F-633B1CA14132}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1-1TCPsyn", "WindowsFormsApplication1\1-1TCPsyn.csproj", "{1D546258-EDFF-4240-8A5F-633B1CA14132}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApplication2", "WindowsFormsApplication2\WindowsFormsApplication2.csproj", "{41F46A49-C257-4062-985C-53933F846081}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1-2TCPasyn", "WindowsFormsApplication2\1-2TCPasyn.csproj", "{41F46A49-C257-4062-985C-53933F846081}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
