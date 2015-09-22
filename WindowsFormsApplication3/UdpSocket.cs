@@ -303,7 +303,6 @@ namespace WindowsFormsApplication3
         private void PostReceive()
         {
             bool block = false;
-
             while (block == false)
             {
                 m_RecvArgs.SetBuffer(m_RecvBuff, 0, m_RecvBuff.Length);
